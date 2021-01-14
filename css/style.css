@@ -5,6 +5,10 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+p {
+    font-size: larger;
+}
  /* ....About Section.... */
 
  .about-sec{
